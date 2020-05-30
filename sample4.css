@@ -1,0 +1,11 @@
+.a1{
+    border:2px solid red;
+    text-align: center;
+    background-color: turquoise;
+}
+div:hover{
+    transform:rotateX(50deg);
+}
+div:active{
+    transform:rotateY(50deg);
+

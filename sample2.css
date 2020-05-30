@@ -1,0 +1,14 @@
+.a1{
+    color:black;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-shadow: 2px 3px red;
+}
+.a2{
+    box-shadow: 2px 3px 2px 3px darkviolet;
+    text-align: center;
+    text-shadow: 2px 3px rgb(156, 27, 216);
+    color :rgb(125, 205, 50);
+    width:100%;
+    height:100%;
+}

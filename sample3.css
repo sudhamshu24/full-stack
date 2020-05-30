@@ -1,0 +1,11 @@
+.a1{
+    border:2px solid red;
+    text-align: center;
+    text-shadow: yellowgreen;
+}
+div:hover{
+    transform: skewX(120deg);
+}
+div:active{
+    transform: scaleY(2);
+}

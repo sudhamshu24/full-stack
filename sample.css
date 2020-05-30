@@ -1,0 +1,31 @@
+.table,th,td{
+    border: 2px solid green;
+}
+input[type=text],input[type=password]{
+    width: 100px;
+    margin:8px;
+    padding:10px;
+    box-sizing:border-box;
+    border:2px solid black;
+    border-radius: 10px;
+    background-color: rgb(192, 226, 128);
+    color:white;
+}
+label{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-variant: small-caps;
+    color:blue;
+}
+th p{
+    font-size:x-large;
+    font-family: monospace;
+    font-variant: small-caps;
+    text-align: center;
+}
+input[type=button]{
+    width: 100%;
+    font-size: large;
+    font-weight: bolder;
+    background-color: rgb(24, 154, 163);
+    color: rgb(0, 0, 0);
+}
