@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>validate rollnumber</title>
+        <script>
+            function validrollnumber(){
+                var val = document.getElementById("txtrollnumber").value;
+                if(/^[2][2][1][7][1][0][3][0][0-9]{4}$/.test(val)){
+                    window.alert('valid rollnumber');
+                }
+                else{
+                    window.alert('invalid rollnumber');
+                    document.getElementById("txtrollnumber").focus();
+                }
+            }
+        </script>
+    </head>
+    <body>
+        <input type="text" id="txtrollnumber"/><br/>
+        <button type="button"onclick="validrollnumber()">validate</button>
+    </body>
+</html>
