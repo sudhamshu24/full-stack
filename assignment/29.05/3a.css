@@ -1,0 +1,22 @@
+ul {
+    margin:0px ;
+    border:3px solid black;
+    width:643.5px;
+    list-style-type:none;
+    background-color:lightskyblue;
+}
+ul a{
+    display:inline-block;
+    padding:8px;
+}
+th{
+    font-size: x-large;
+}
+table{
+    border:3px solid black;
+    background-color: gray;
+}
+img{
+    border:3px solid red;
+    margin:5px;
+}

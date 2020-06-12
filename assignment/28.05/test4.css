@@ -1,0 +1,18 @@
+h1{
+    color:red;
+    text-align:center;
+    text-transform:capitalize;
+    font-style:oblique;
+}
+.A{
+    color:royalblue;
+    text-align:left;
+    text-transform:uppercase;
+    font-style:unset;
+}
+#B{
+    color:slateblue;
+    text-align:right;
+    text-transform:lowercase;
+    font-style:italic;
+}

@@ -1,0 +1,11 @@
+ul{
+    display:inline-box;
+    padding:30px;
+    
+}
+ul a{
+    list-style-type: none;
+    margin:10px;
+    color:forestgreen;
+    
+}
