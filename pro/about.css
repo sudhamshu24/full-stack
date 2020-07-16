@@ -1,0 +1,23 @@
+.naac{
+    float: left;
+}
+.category{
+    float: left;
+}
+.excellence{
+    float: right;
+}
+.aicte{
+    float: right;
+}
+nav{
+    background-color: brown;
+    height: 50px;
+    padding-top: 25px;
+}
+a{
+    text-decoration: none;
+    color: white;
+    font-size: x-large;
+    padding: 80px;
+}
